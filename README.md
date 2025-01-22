@@ -25,7 +25,7 @@
      <li>Trilhas de carreira FullStack Dio.</li>
   </ul>
 <hr>
-<a href="[https://www.linkedin.com/in/matheus-t-a72332174/](https://www.linkedin.com/in/matheus-t-a72332174/)"><img style="max-height: 100%; width: 40px; margin-right: 20px;" src="https://github.com/RicToni/RicToni/assets/132107032/32fed31c-bbce-4a33-a053-59b6a67053bc">
+<a href="https://www.linkedin.com/in/matheus-t-a72332174/"><img style="max-height: 100%; width: 40px; margin-right: 20px;" src="https://github.com/RicToni/RicToni/assets/132107032/32fed31c-bbce-4a33-a053-59b6a67053bc">
 </a>
 <a href="https://www.instagram.com/mtonholli/"><img style="max-height: 100%; width: 40px; margin-right: 20px;" src="https://github.com/RicToni/RicToni/assets/132107032/0ef305a5-1725-41f4-ade1-c11a46fa738a">
 </a>
