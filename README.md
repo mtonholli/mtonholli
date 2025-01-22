@@ -6,7 +6,7 @@
 <br>
 <div >
   <img style="max-height: 100%; width: 40px; margin-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
-  <img style="max-height: 100%; width: 40px; margin-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> 
+  <img style="max-height: 100%; width: 40px; margin-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git-hub/git-hub-original.svg" /> 
   <img style="max-height: 100%; width: 40px; margin: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img style="max-height: 100%; width: 40px; margin-right: 20px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img style="max-height: 100%; width: 40px; margin-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
