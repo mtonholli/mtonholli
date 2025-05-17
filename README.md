@@ -6,12 +6,16 @@
 <br>
 <div >
   <img style="max-height: 100%; width: 40px; margin-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
-  <img style="max-height: 100%; width: 40px; margin: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img style="max-height: 100%; width: 40px; margin-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img style="max-height: 100%; width: 40px; margin-right: 20px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img style="max-height: 100%; width: 40px; margin-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img style="max-height: 100%; width: 40px; margin-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img style="max-height: 100%; width: 40px; margin-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-          
+  <img style="max-height: 100%; width: 40px; margin-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img style="max-height: 100%; width: 40px; margin-right: 20px;" src="https://icongr.am/devicon/django-line.svg?size=128&color=currentColor" />
+
+
+          https://icongr.am/devicon/django-line.svg?size=128&color=currentColor
 </div>
 <hr>
 <div>
