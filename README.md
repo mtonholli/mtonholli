@@ -17,7 +17,6 @@
   <img style="max-height: 100%; width: 40px; margin-right: 20px;" src="https://icongr.am/devicon/dot-net-original.svg?size=128&color=currentColor" />
 
 
-          https://icongr.am/devicon/django-line.svg?size=128&color=currentColor
 </div>
 <hr>
 <div>
