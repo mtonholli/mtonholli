@@ -12,7 +12,7 @@
   <img style="max-height: 100%; width: 40px; margin-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img style="max-height: 100%; width: 40px; margin-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
   <img style="max-height: 100%; width: 40px; margin-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img style="max-height: 100%; width: 40px; margin-right: 20px;" src="https://icongr.am/devicon/django-plain.svg?size=128&color=currentColor" />
+  <img style="max-height: 100%; width: 40px; margin-right: 20px;" src="https://icongr.am/devicon/django-plain.svg?size=128&color=ffffff" />
   <img style="max-height: 100%; width: 40px; margin-right: 20px;" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" />
   <img style="max-height: 100%; width: 40px; margin-right: 20px;" src="https://icongr.am/devicon/dot-net-original.svg?size=128&color=currentColor" />
 
