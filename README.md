@@ -19,10 +19,8 @@
   <img style="width: 40px; margin-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img style="width: 40px; margin-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
   <img style="width: 40px; margin-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img style="width: 40px; margin-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
   <img style="width: 40px; margin-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img style="width: 40px; margin-right: 20px;" src="https://icongr.am/devicon/django-plain.svg?size=128&color=ffffff" />
-  <img style="width: 40px; margin-right: 20px;" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" />
   <img style="width: 40px; margin-right: 20px;" src="https://icongr.am/devicon/dot-net-original.svg?size=128&color=currentColor" />
 </div>
 
@@ -41,10 +39,10 @@
 <div>
   <!-- Redes sociais -->
   <a href="https://www.linkedin.com/in/matheus-t-a72332174/">
-    <img style="width: 40px; margin-right: 20px;" src="https://github.com/RicToni/RicToni/assets/132107032/32fed31c-bbce-4a33-a053-59b6a67053bc" />
+    <img style="width: 40px; margin-right: 20px;" src="https://www.svgrepo.com/show/157006/linkedin.svg" />
   </a>
   <a href="https://www.instagram.com/mtonholli/">
-    <img style="width: 40px; margin-right: 20px;" src="https://github.com/RicToni/RicToni/assets/132107032/0ef305a5-1725-41f4-ade1-c11a46fa738a" />
+    <img style="width: 40px; margin-right: 20px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" />
   </a>
 </div>
 
